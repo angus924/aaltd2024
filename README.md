@@ -1,5 +1,3 @@
-*[in progress]*
-
 # AALTD 2024
 
 ***Highly Scalable Time Series Classification for Very Large Datasets***
@@ -154,7 +152,3 @@ error = model.score(data_te)
 data_tr.close()
 data_te.close()
 ```
-
-## Acknowledgements
-
-[...]
